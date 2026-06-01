@@ -43,7 +43,7 @@ const Hero = () => {
 
             <div className="space-y-3">
               <p className="font-bold">Nombre de la tarea:</p>
-              <p className="font-normal">Proyecto Final</p>
+              <p className="font-normal">Elaboración del Manual Docente</p>
             </div>
 
             <div className="space-y-4">
